@@ -17,7 +17,7 @@ stop
 ## Program:
 ```c#
 using System;
-namespace vijay
+namespace Prasanna
 {
     class program
     {
