@@ -48,6 +48,7 @@ namespace Prasanna
 }
 ```
 ## Output:
-![Screenshot (43)](https://user-images.githubusercontent.com/75235488/163834354-6061aa5f-a7cc-4276-bc1d-8cfc270925fb.png)
+![image](https://user-images.githubusercontent.com/75235090/175278599-782203d4-c814-4fcc-8fb0-8d564aa256d1.png)
+
 ## Result:
 Thus the C# program to grade the marks is executed successfully.
