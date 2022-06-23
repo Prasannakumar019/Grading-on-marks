@@ -1,4 +1,6 @@
-# Grading-on-marks
+## EX NO:3
+## DATE:7.4.22
+# <p align = "center"> Grading-on-marks
 ## Aim:
 To write a C# program to grade the marks
 ## Algorithm:
